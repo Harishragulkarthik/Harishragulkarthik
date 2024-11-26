@@ -6,7 +6,7 @@
 
 ## About Me
 - 🔭 Looking for some intresting projects
-- 🌱 I’m currently addicted to Finite Element Anaysis
+- 🌱 I’m currently addicted to Finite Element Analysis
 - 💻 Working as Jr Software Engineer
 - 🚀 Rocket Scientist
 - 🎃 Big Fan of Open Source
